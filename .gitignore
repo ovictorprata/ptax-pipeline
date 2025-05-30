@@ -1,0 +1,7 @@
+.venv/
+*.pyc
+.env
+comandos_docker_compose
+base_ficticia.csv
+logs/
+*.cfg
